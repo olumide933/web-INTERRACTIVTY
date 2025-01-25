@@ -7,3 +7,4 @@ console.log(getMainTitle)
 const getParagraph = document.querySelector('.myParagraph')
 const changeParagraph = getParagraph.textContent = 'I am changing the text content regardless of whet is there before'
 console.log(getParagraph)
+
